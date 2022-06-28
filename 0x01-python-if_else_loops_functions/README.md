@@ -1,4 +1,4 @@
-# Heading 1
+# Python - if/else, loops, functions
 A project I did while learning full stack software engineering at ALX School. Concepts covered in this project are `if/else` `loops` `functions` 
 
 ## Technologies
