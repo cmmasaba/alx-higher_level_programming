@@ -17,7 +17,7 @@ void reverse(listint_t **h_r)
 
 	while (crr != NULL)
 	{
-		next = crr->next;
+		nxt = crr->next;
 		crr->next = prv;
 		prv = crr;
 		crr = nxt;
@@ -58,15 +58,16 @@ int compare(listint_t *h1, listint_t *h2)
 	{
 		return (1);
 	}
-	
+
 	return (0);
 }
 
 /**
- * is_palindrome - checks if a singly linked list is a palindrome
- * @head: pointer to a pointer to the head of the linked list
- *
- * Return: 1 if it is a palindrome, 0 otherwise
+ * is_palindrome - checks if a singly linked list
+ * is a palindrome
+ * @head: pointer to head of list
+ * Return: 0 if it is not a palindrome,
+ * 1 if it is a palndrome
  */
 int is_palindrome(listint_t **head)
 {
@@ -109,5 +110,5 @@ int is_palindrome(listint_t **head)
 		}
 	}
 
-return (isp);
+	return (isp);
 }
