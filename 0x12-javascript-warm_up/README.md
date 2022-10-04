@@ -1,5 +1,5 @@
 # HEADING 1
-This is a project I did while studying Software Engineering at ALX. This work covers concepts on [current project]<br/>
+This is a project I did while studying Software Engineering at ALX. This work covers concepts on `Warm up`<br/>
 
 ##Technologies
 -`Environment:` `Ubuntu 20.04`<br/>
