@@ -1,15 +1,15 @@
-# HEADING 1
-This is a project I did while studying Software Engineering at ALX. This work covers concepts on `Warm up`<br/>
+# JavaScript Warm-Up
+This is a project I did while studying Software Engineering at ALX. This work covers concepts on `variables`, `var let const`, `control flow`, `data types`, `comments` etc<br/>
 
-##Technologies
+## Technologies
 -`Environment:` `Ubuntu 20.04`<br/>
 -`Language:` `Javascript`<br/>
 -`Framework:` `Node.js`<br/>
 
-##Files
+## Files
 A description of files contained in this project are as follows:<br/>
-|:------------------------:|:------------------------------|
 |**File**|**Description**|
+|:------------------------:|:------------------------------|
 |0-javascript_is_amazing.js| a script that prints `“JavaScript is amazing”`|
 |1-multi_languages.js| a script that prints 3 lines |
 |2-arguments.js| a script that prints a message depending of the number of arguments passed|
