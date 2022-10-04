@@ -1,15 +1,15 @@
-# HEADING 1
-This is a project I did while studying Software Engineering at ALX. This work covers concepts on `Objects, Scopes and Closures`<br/>
+# Objects Scopes and Closures
+This is a project I did while studying Software Engineering at ALX. This work covers concepts on `objects`, `this`, `inheritance`, `scope and type of variables` etc<br/>
 
-##Technologies
+## Technologies
 -`Environment:` `Ubuntu 20.04`<br/>
 -`Language:` `Javascript`<br/>
 -`Framework:` `Node.js`<br/>
 
-##Files
+## Files
 A description of files contained in this project are as follows:<br/>
-|:------------------------:|:------------------------------|
 |**File**|**Description**|
+|:------------------------:|:------------------------------|
 |0-rectangle.js| an empty class `Rectangle` that defines a rectangle
 |1-rectangle.js| a class `Rectangle` that defines a rectangle, with a constructor that takes two args `w` and `h`|
 |2-rectangle.js| a class `Rectangle` that defines a rectangle|
