@@ -2,6 +2,7 @@
 Project done while studying Software Engineering at ALX. Concepts covered in this project are `Python` `OOP` `SQL` `MySQL` `ORM` and `SQLAlchemy`<br/>
 
 ## Technologies
+
 * `MySQL 8.0` 
 * `MySQLdb`, version 2.0
 * `sqlalchemy`, version 1.4
@@ -36,7 +37,7 @@ All the following files are scripts of MySQL:
 | `101-relationship_states_cities_list.py` | Lists all `State` objects and corresponding `City` objects, contained in the database `hbtn_0e_101_usa` |
 | `102-relationship_cities_states_list.py` | Lists all `City` objects from the database `hbtn_0e_101_usa` |
 
-## Contirbutors
+## Contributors
 Collins Mmasaba<br/>
 `Email:`<collins.mmasaba@azubiafrica.org><br/>
 2022
